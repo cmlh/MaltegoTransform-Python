@@ -2,7 +2,7 @@
 
 ___Disclaimer:___ This is not my (@sroberts) code. I didn't write it. I just thought it'd be nice to have this code somewhere people count contribute to it. This belongs to the awesome Paterva team and they deserve all the credit.
 
-So here is a small python lib for creating your own transforms, just takes out some of the hassle.
+So here is a [small python lib for creating your own transforms](http://dev.paterva.com/developer/downloads/index.php#libraries), just takes out some of the hassle.
 
 ## Basic Examples
 
