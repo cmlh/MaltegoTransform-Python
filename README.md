@@ -130,18 +130,18 @@ Setter for the entity Weight property
 Setter for the entity Display Information property
 
 #### addAdditionalFields(fieldName=None,displayName=None,matchingRule=False,value=None)
+Setter for the entity Additional Information property
 
 ### Set additional fields for the entity
-fieldName: Name used on the code side, eg displayName may be "Age of Person", but the app and your transform will see it as the fieldName variable
-displayName: display name of the field shown within the entity properties
-matchingRule: either "strict" for strict matching on this specific field or false
-value: The additional fields value
+- fieldName: Name used on the code side, eg displayName may be "Age of Person", but the app and your transform will see it as the fieldName variable
+- displayName: display name of the field shown within the entity properties
+- matchingRule: either "strict" for strict matching on this specific field or false
+- value: The additional fields value
 
-setIconURL(iconURL)
+#### setIconURL(iconURL)
 Setter for the entity Icon URL (entity Icon) property
 
-```python
-returnEntity()```
+#### returnEntity()
 Prints the entity with the correct XML formatting
 
 ## UPDATE:
